@@ -26,4 +26,4 @@ Este repositório serve como um hub central para documentar e apresentar meus pr
 Meu objetivo com este portfólio é demonstrar a transição da mentalidade de **Suporte Reativo** para a **Engenharia Proativa**, focada na automação, observabilidade e entrega contínua.
 
 ---
-**🌐 Conecte-se comigo:** [COLE AQUI O LINK DO SEU LINKEDIN]
+**🌐 Conecte-se comigo:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-victor-magalhães-05b950138)
